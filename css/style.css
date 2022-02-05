@@ -1,0 +1,206 @@
+body,h1,h2,h3,h4,h5,h6,ul,p{
+	margin: 0;
+	padding: 0;	
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: normal;
+}
+.container{
+	width: 1060px;
+}
+.menu li{
+	display: inline;
+}
+.menu a{
+	text-decoration: none;
+	font-size: 14px;
+	color: #626262;
+	margin-left: 100px;
+}
+.menu{
+	text-align: right;
+}
+.photodiary-text{
+	width: 660px;
+}
+.photodiary-text h1{
+	color:#b4ad9e;
+	font-size: 14px;
+	margin-bottom: 29px;
+}
+.photodiary-text h2{
+	font-size: 30px;
+	color:#626262;
+	margin-bottom: 42px;
+	font-weight: 400;
+}
+.photodiary-text p{
+	font-size: 14px;
+	color:#626262;
+	line-height: 24px;
+}
+.photodiary-text span{
+	font-size: 13px;
+	color:#b4ad9e;
+}	
+.photodiary-icon{
+	margin-bottom: 117px;
+}
+.photodiary-text a{
+	color:#b4ad9e;
+}
+.right-section{
+	width: 273px;
+}
+.right-section h1 a{
+	font-size: 24px;
+	color: #626262;
+	margin:28px 0 23px 0;
+	text-decoration: none;
+	font-weight: 400;
+}
+.right-section h2{
+	font-size: 14px;
+	color: #b4ad9e;
+	margin-bottom: 37px;
+}
+.right-section p{
+	font-size: 12px;
+	color: #626262;
+	margin:19px 0 27px 0;
+}
+.icon-format{
+	color:#b4ad9e;
+	margin-right: 17px;
+}
+.comments-format h3{
+	margin-bottom:18px;
+	font-size: 16px;
+}
+.comments-format span a{
+	font-size: 12px;
+	color: #b4ad9e;
+	margin-left: 18px;
+}
+.top-post h3 a{
+	color: #626262;
+	margin-left: 20px;
+}
+.top-post li{
+	font-size: 16px;
+	color: #b4ad9e;
+	margin-left: 15px;
+} 
+.top-post a{
+	text-decoration: none;
+	color: #b4ad9e;
+}
+.content-section{
+	background-color: #f5f5f5;
+}
+.content-header h1{
+	font-size: 16px;
+	color:#b4ad9e;
+	margin:68px 0px 42px 0;
+}
+.content-header h2 {
+	font-size: 20px;
+	color:#626262;
+	margin: 24px 0 94px 0;
+}
+.content-header a{
+	text-decoration: none;
+	color:#626262;
+}
+.content-section h2{
+	width:274px;
+}
+.comments-txt img{
+	border-radius: 100%;
+}
+.user-icon{
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	font-size: 34px;
+	color: white;
+	text-align: center;
+	padding-top: 15px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 200;
+}
+.comments-txt h1{
+	color:#b4ad9e;
+	font-size: 14px;
+	margin: 66px 0 45px 0;
+}
+.comments-txt h4{
+	background: #cae5e0;
+}
+.comments-txt h5{
+	background: #ededea;
+}
+.connected-with span{
+	color:#b4ad9e;
+	font-size: 14px;
+}
+.connected-with{
+	margin: 75px 85px 120px 0;
+}
+.icon-color{
+	color: #626262;
+}
+.comments-txt h2{
+	color:#626262;
+	font-size: 14px;
+	margin-bottom: 16px;
+	font-size: 14px;
+}
+.comments-txt h3{
+	color:#b4ad9e;
+	font-size: 14px;
+	margin:30px 0 57px 0;
+	margin-left: 109px;
+	font-size: 14px;
+}
+.comments-txt h3 a{
+	color:#b4ad9e;
+	text-decoration: none;
+}
+.comments-txt p{
+	color:#626262;
+	font-size: 14px;
+}
+.comments-txt textarea{
+	padding:25px 0 15px 30px;
+	width: 790px;
+	color: #c8c8c8;
+	font-size: 14px;
+	border-color: #b4ad9e;
+	border-radius: 5px;
+}
+.bg-footer{
+	background:#f0f0f0;
+}
+.footer{
+	padding:0 80px 0 90px;
+}
+.footer h1 a, h3 a{
+	color: #000000;
+	text-decoration: none;
+}
+.footer h1,h3{
+	font-size: 14px;
+	margin: 40px 0 0 0;
+	text-decoration: none;
+	color: #000000;
+}
+.footer h2 a{
+	color: #626262;
+}
+.footer h2{
+	font-size: 14px;
+	margin: 40px 0 46px 0;
+	color: #626262;
+}
+
+
